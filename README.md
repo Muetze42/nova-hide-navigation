@@ -1,10 +1,18 @@
+## 📦 Archived
+
+This repository is archived and no longer maintained.
+
+If you offer, maintain, or know of an actively maintained alternative to this project, please contact me at **[maintainers@huth.it](mailto:maintainers@huth.it)**.
+
+If the alternative references this repository as its source, inspiration, predecessor, or migration path, I may list it here so existing users can find a maintained replacement.
+
+---
+
 # Nova Hide Navigation
 
 Hiding Sidebar, Header or Footer in [Laravel Nova](https://nova.laravel.com/).  
 Just a small package. Useful if, for example, you want to use the Nova Dashboard on a smart TV in the office or
 something. ☕
-
-[![Live Preview](https://raw.githubusercontent.com/Muetze42/Muetze42/main/files/btn-live-preview.jpg)](https://nova-demo.huth.it/dashboards/main?hide=all)
 
 ## Installation
 
